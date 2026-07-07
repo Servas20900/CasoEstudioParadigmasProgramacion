@@ -1,0 +1,25 @@
+{
+  "name": "casoestudioparadigmasprogramacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Servas20900/CasoEstudioParadigmasProgramacion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Servas20900/CasoEstudioParadigmasProgramacion/issues"
+  },
+  "homepage": "https://github.com/Servas20900/CasoEstudioParadigmasProgramacion#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
